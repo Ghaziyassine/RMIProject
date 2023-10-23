@@ -5,7 +5,7 @@ Le projet "Gestion des Machines et des Salles" est une application informatique 
 
 - [Tehnologie utilisée](#tehnologie-utilisée)
 - [Fonctionnalités](#fonctionnalités)
-- [Capture d'écran](#capture-décran)
+- [Capture d'écran](#captures-décran)
 - [Utilisation](#utilisation)
 - [Installation](#installation)
 
@@ -37,7 +37,7 @@ Le projet "Gestion des Machines et des Salles" offre plusieurs fonctionnalités 
 9. **Liste des Salles :** Affiche la liste complète de toutes les salles existantes.
 
 Ces fonctionnalités offrent un moyen convivial de gérer les machines et les salles dans votre environnement, en facilitant leur ajout, leur modification et leur suppression, tout en permettant de voir clairement quelles machines sont présentes dans chaque salle.
-## Capture d'écran
+## Captures d'écran
 interface de Gestion des Machines:
 ![image](https://github.com/Ghaziyassine/RMIProject/assets/114885285/c95f765a-0b45-4d5b-85e9-f5a76d5e6d11)
 interface de Gestion des Salees :
