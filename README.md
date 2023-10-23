@@ -3,12 +3,17 @@
 Le projet "Gestion des Machines et des Salles" est une application informatique conçue pour simplifier la gestion des machines et des salles au sein d'un environnement donné. Ce projet repose sur une interface graphique utilisateur (GUI) développée en utilisant la technologie Swing de Java, offrant ainsi aux utilisateurs une expérience conviviale et intuitive pour interagir avec le système. Grâce à cette interface graphique, les utilisateurs peuvent facilement ajouter, modifier, supprimer et visualiser des informations liées aux machines et aux salles. Que vous soyez responsable d'un laboratoire, d'une entreprise ou de tout autre environnement nécessitant la gestion de machines et de salles, cette application basée sur Swing simplifie et rationalise le processus tout en garantissant une navigation aisée et une utilisation efficace.
 ## Table des Matières
 
+- [Tehnologie utilisée](#tehnologie-utilisée)
 - [Fonctionnalités](#fonctionnalités)
 - [Capture d'écran](#capture-décran)
 - [Utilisation](#utilisation)
 - [Installation](#installation)
 
-
+##  Tehnologie utilisée
+- Java.
+- MySQL.
+- Hibernate.
+- RMI.
 ## Fonctionnalités
 
 Le projet "Gestion des Machines et des Salles" offre plusieurs fonctionnalités utiles pour la gestion des machines et des salles. Voici quelques-unes des fonctionnalités clés :
