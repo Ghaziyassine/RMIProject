@@ -4,6 +4,7 @@ Le projet "Gestion des Machines et des Salles" est une application informatique 
 ## Table des Matières
 
 - [Fonctionnalités](#fonctionnalités)
+- [Capture d'écran](#capture-décran)
 - [Utilisation](#utilisation)
 - [Installation](#installation)
 
@@ -12,7 +13,7 @@ Le projet "Gestion des Machines et des Salles" est une application informatique 
 
 Le projet "Gestion des Machines et des Salles" offre plusieurs fonctionnalités utiles pour la gestion des machines et des salles. Voici quelques-unes des fonctionnalités clés :
 
-1. **Ajout de Machines :** Permet d'ajouter de nouvelles machines en spécifiant leur référence, marque, prix et salle d'appartenance.
+1. **Ajout de Machines** : Permet d'ajouter de nouvelles machines en spécifiant leur référence, marque, prix et salle d'appartenance.
 
 2. **Modification de Machines :** Vous pouvez mettre à jour les informations d'une machine existante, y compris sa référence, marque, prix et salle associée.
 
@@ -31,18 +32,18 @@ Le projet "Gestion des Machines et des Salles" offre plusieurs fonctionnalités 
 9. **Liste des Salles :** Affiche la liste complète de toutes les salles existantes.
 
 Ces fonctionnalités offrent un moyen convivial de gérer les machines et les salles dans votre environnement, en facilitant leur ajout, leur modification et leur suppression, tout en permettant de voir clairement quelles machines sont présentes dans chaque salle.
-
-N'hésitez pas à explorer ces fonctionnalités pour mieux comprendre comment utiliser l'application.
 ## Capture d'écran
+interface de Gestion des Machines:
+![image](https://github.com/Ghaziyassine/RMIProject/assets/114885285/c95f765a-0b45-4d5b-85e9-f5a76d5e6d11)
+interface de Gestion des Salees :
+![image](https://github.com/Ghaziyassine/RMIProject/assets/114885285/4d24a35e-04e3-4654-9ef9-7beed947e0d7)
 
-Ajoutez des captures d'écran du projet ici si nécessaire.
-
-## Guide d'Utilisation
+##  Utilisation
 
 ### Accès à l'Application
 
 - Assurez-vous que le projet est en cours d'exécution en suivant les étapes d'installation et de configuration du fichier README.
-- Ouvrez votre navigateur web et accédez à l'application en utilisant l'URL suivante : [http://localhost:8080](http://localhost:8080) (ou l'URL spécifiée lors de la configuration du serveur).
+- Ouvrez votre navigateur web et accédez à l'application en utilisant l'URL suivante : [http://localhost:1099](http://localhost:1099) (ou l'URL spécifiée lors de la configuration du serveur,vous pouvez changer cette configuration dans le fichier configuration.properties).
 
 ### Ajout de Machines
 
