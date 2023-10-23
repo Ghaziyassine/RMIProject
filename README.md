@@ -45,10 +45,7 @@ interface de Gestion des Salees :
 
 ##  Utilisation
 
-### Accès à l'Application
 
-- Assurez-vous que le projet est en cours d'exécution en suivant les étapes d'installation et de configuration du fichier README.
-- Ouvrez votre navigateur web et accédez à l'application en utilisant l'URL suivante : [http://localhost:1099](http://localhost:1099) (ou l'URL spécifiée lors de la configuration du serveur,vous pouvez changer cette configuration dans le fichier configuration.properties).
 
 ### Ajout de Machines
 
